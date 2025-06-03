@@ -163,7 +163,7 @@ Using complex passwords is one of the simplest and most effective ways to protec
 2. Checking Data Breaches
    - Optionally checks if the password has been leaked in known data breaches using the HaveIBeenPwned API.
 
-This tool helps users create more secure passwords and avoid using compromised ones.
+### This tool helps users create more secure passwords and avoid using compromised ones.
 ---
 
 
