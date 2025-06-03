@@ -154,8 +154,8 @@ Using complex passwords is one of the simplest and most effective ways to protec
 ---
 ## Additional attachment
 
-###pswd_checker.py
-** Python script designed to perform **to check the strength and safety of a password by:-
+### pswd_checker.py
+** Python script designed to perform** to check the strength and safety of a password by:-
 1. Evaluating Strength
    - Assesses if the password includes uppercase, lowercase, numbers, special characters, and is at least 8 characters long.
    - Rates the password as Weak, Moderate, or Strong and provides tips for improvement.
