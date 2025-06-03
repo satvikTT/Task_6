@@ -37,7 +37,24 @@ To understand what makes a password strong and evaluate its robustness using fre
 ## Deliverables
 
 1. A list of the passwords you tested (do NOT use real or reused passwords).
-
+   ```bash
+   AdamJohn@2705
+   ```
+   ```bash
+   SatvikkkBhgt@2705
+   ```
+   ```bash
+   Hello@123
+   ```
+   ```bash
+   MyNameIsJOKER@13579#
+   ```
+   ```bash
+   PswdMonster@91347#
+   ```
+   ```bash
+   fName@lName#1970
+   ```
 2. Screenshots or descriptions of the tool feedback/scores.
 
 3. Overview of common methods used to compromise or uncover passwords.
