@@ -145,8 +145,8 @@ Password complexity plays a crucial role in defending against cyber attacks by m
    - Complex passwords increase the time, computing power, and effort required for an attacker to succeed.
    - Often, this added difficulty deters attacks entirely or causes them to fail.
 
-✅ ** Stronger complexity = Better protection **
-❌ ** Weak/simple passwords = Easy targets for attackers **
+✅ **Stronger complexity = Better protection**
+❌ **Weak/simple passwords = Easy targets for attackers**
 
 ### Conclusion
 Using complex passwords is one of the simplest and most effective ways to protect personal and organizational data from unauthorized access.
