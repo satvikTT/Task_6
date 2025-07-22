@@ -1,4 +1,4 @@
-# Password Strength Evaluation ( Task - 6 )
+# Password Strength Evaluation
 
 ---
 ## Objective
